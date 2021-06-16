@@ -1,0 +1,4 @@
+module Buka
+  class Error < StandardError
+  end
+end

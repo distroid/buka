@@ -1,0 +1,3 @@
+module Buka
+  VERSION: ::String
+end

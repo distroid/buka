@@ -1,4 +1,6 @@
-require "buka/version"
+# frozen_string_literal: true
+
+require 'buka/version'
 
 module Buka
   class Error < StandardError; end
